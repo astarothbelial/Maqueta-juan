@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../IntroduccionHTML5"
+		},
+		{
+			"path": "../../BocetosCssYHtml"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MaquetaLibreria"
+	}
+}
